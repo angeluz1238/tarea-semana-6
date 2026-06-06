@@ -1,0 +1,3 @@
+ "tipo": "Daño en vía pública",
+  "descripcion": "Los vecinos reportan un hueco grande en la calle principal que dificulta el tránsito de vehículos y bicicletas."
+}
